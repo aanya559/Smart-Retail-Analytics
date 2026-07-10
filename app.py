@@ -222,4 +222,4 @@ else:
     c3.warning("⚠️ No model found. Run `python train_model.py` to generate one.")
 
 st.markdown("---")
-st.caption("Built with ❤️ using Streamlit · Plotly · Scikit-learn · Pandas")
+
